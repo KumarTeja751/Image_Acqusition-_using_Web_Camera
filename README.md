@@ -102,19 +102,19 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 
-![dip 2 1](https://github.com/Abburehan/Image_Acqusition-_using_Web_Camera/assets/138849336/2f451bbf-eb51-454d-bbb6-eaabf743a755)
+![image](https://github.com/user-attachments/assets/b50ca70d-464d-4d4d-ae2c-5613595c7a4e)
 
 ### ii) Display the video
 
-![Dip Ex 02 02](https://github.com/Abburehan/Image_Acqusition-_using_Web_Camera/assets/138849336/9c51dc8e-38a0-495f-94a7-00b650fa68f0)
+![image](https://github.com/user-attachments/assets/e132ef0b-b5fe-4ae2-ba3a-5449384f2ddb)
 
 ### iii) Display the video by resizing the window
 
-![Dip Ex 02 03](https://github.com/Abburehan/Image_Acqusition-_using_Web_Camera/assets/138849336/a76ae336-c4db-48e0-b662-25c11897ab16)
+![image](https://github.com/user-attachments/assets/57705747-258b-4d5b-94ee-1c61c3887c1a)
 
 ### iv) Rotate and display the video
 
-![Dip Ex 02 04](https://github.com/Abburehan/Image_Acqusition-_using_Web_Camera/assets/138849336/3bfe8475-2d69-495a-9e6a-938d51520d36)
+![image](https://github.com/user-attachments/assets/3687c176-923d-4aa0-a8c2-1b1a65135ad8)
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
